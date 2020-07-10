@@ -18,7 +18,7 @@ react-org-chart provides a simple and stylish organizational chart React compone
 ## Installation
 
 Install via Npm:
-```npm install react-org-chart```
+```npm install @mikhailfarberov/react-org-chart```
 
 ## Demo
 

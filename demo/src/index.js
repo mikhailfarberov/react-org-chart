@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import OrgChart from "react-org-chart";
+import OrgChart from "@mikhailfarberov/react-org-chart";
 
 var tree = [
   {

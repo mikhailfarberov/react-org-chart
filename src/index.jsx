@@ -1,6 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
-import "react-org-chart/dist/styles.css";
+import "@mikhailfarberov/react-org-chart/dist/styles.css";
 
 var defaultProps = {
     tree: {},

@@ -4,6 +4,7 @@
   "private": true,
   "main": "index.js",
   "dependencies": {
+    "@mikhailfarberov/react-org-chart": "^1.0.1",
     "moment": "^2.24.0",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",

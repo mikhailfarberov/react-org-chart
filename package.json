@@ -1,6 +1,6 @@
 {
-  "name": "react-org-chart",
-  "version": "1.0.0",
+  "name": "@mikhailfarberov/react-org-chart",
+  "version": "1.0.1",
   "private": false,
   "main": "dist/index.js",
   "files": [

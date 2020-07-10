@@ -1,8 +1,11 @@
 # react-org-chart - an easy React component to create an organizational chart
 
-[![VERSION](https://img.shields.io/github/v/tag/mikhailfarberov/teleparser?label=version&sort=semver&style=for-the-badge)](https://img.shields.io/github/v/tag/mikhailfarberov/teleparser?label=version&sort=semver&style=for-the-badge)
+![npm](https://img.shields.io/npm/v/@mikhailfarberov/react-org-chart)
+![npm peer dependency version](https://img.shields.io/npm/dependency-version/@mikhailfarberov/react-org-chart/peer/react)
+![npm peer dependency version](https://img.shields.io/npm/dependency-version/@mikhailfarberov/react-org-chart/peer/react-dom)
+![npm peer dependency version](https://img.shields.io/npm/dependency-version/@mikhailfarberov/react-org-chart/peer/prop-types)
 
-react-org-chart provides a simple and stylish organizational chart React component. It supports different chart node attributes (see #configuration) and multi root tree (see #demo).
+react-org-chart provides a simple and stylish organizational chart React component. It supports different chart node attributes (see #configuration) and multi-root tree (see #demo).
 
 ## Table of Contents
 
@@ -19,7 +22,7 @@ Install via Npm:
 
 ## Demo
 
-See [Codepen.io demo]() or https://github.com/mikhailfarberov/react-org-chart/blob/master/demo/
+See [demo](https://itworks.pw/demo/react-org-chart/) or https://github.com/mikhailfarberov/react-org-chart/blob/master/demo/
 
 ```
 var tree = [
@@ -91,7 +94,7 @@ Node format:
 ```
 
 * collapse - Render the tree collapsed. Default false.
-* onExpandItem - Event fired when node is expanded. Can be used to load child nodes asyncroniously.
+* onExpandItem - Event fired when a node is expanded. Can be used to load child nodes asynchronously.
 
 ## Credits
 Special thanks to:
